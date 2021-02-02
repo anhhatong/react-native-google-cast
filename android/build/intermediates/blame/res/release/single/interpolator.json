@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/maddietong/tbpapp/node_modules/react-native-google-cast/android/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/maddietong/.gradle/caches/transforms-2/files-2.1/d721b64f9642637c50cafb8289b13e73/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/maddietong/tbpapp/node_modules/react-native-google-cast/android/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/maddietong/.gradle/caches/transforms-2/files-2.1/d721b64f9642637c50cafb8289b13e73/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

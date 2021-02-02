@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/maddietong/tbpapp/node_modules/react-native-google-cast/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/maddietong/.gradle/caches/transforms-2/files-2.1/ce20e1a952e1d0e5fa07de8b9d446b33/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/maddietong/tbpapp/node_modules/react-native-google-cast/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/maddietong/.gradle/caches/transforms-2/files-2.1/ce20e1a952e1d0e5fa07de8b9d446b33/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/maddietong/tbpapp/node_modules/react-native-google-cast/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/maddietong/.gradle/caches/transforms-2/files-2.1/ce20e1a952e1d0e5fa07de8b9d446b33/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/maddietong/tbpapp/node_modules/react-native-google-cast/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/maddietong/.gradle/caches/transforms-2/files-2.1/ce20e1a952e1d0e5fa07de8b9d446b33/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/maddietong/tbpapp/node_modules/react-native-google-cast/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/maddietong/.gradle/caches/transforms-2/files-2.1/ce20e1a952e1d0e5fa07de8b9d446b33/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/maddietong/tbpapp/node_modules/react-native-google-cast/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/maddietong/.gradle/caches/transforms-2/files-2.1/dda8c9c26381b99ee1ea80876240a522/res/drawable-v21/notification_action_background.xml"
+    }
+]
